@@ -14,7 +14,7 @@ pip install requests
 ## Usage
 1. Clone the Repository:
 ```
-git clone https://github.com/yourusername/blog-scraping-script.git
+git clone https://github.com/Srushti94/blog-scraping-script.git
 cd blog-scraping-script
 ```
 
